@@ -1,4 +1,6 @@
 # Run-World-Cup-Simulations
+
+
 ## **A script to simulate a football world cup tournament results**
 
 This code simulates a sports tournament by reading in teams and their ratings from a csv file. The tournament is simulated N (default value is 1000) number of times and the chances of winning for each team are calculated based on the number of wins in the simulations.
